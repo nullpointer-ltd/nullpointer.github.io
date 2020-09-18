@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9a32"],{3494:function(e,n,t){"use strict";t.r(n);var a,i,l=t("0dfe"),o=t("6512"),p={name:"recruiment",metaInfo:{title:"人才招聘"},extends:l["a"],mixins:[Object(o["a"])(["job-details","apply-job","info"])],props:{id:{type:String,default:"recruitment"}}},u=p,r=t("2877"),s=Object(r["a"])(u,a,i,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0b9a32.a635b49a.js.map
